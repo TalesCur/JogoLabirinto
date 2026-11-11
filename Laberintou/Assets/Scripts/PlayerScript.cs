@@ -55,4 +55,12 @@ public class PlayerScript : MonoBehaviour
             an.Play("PlayerIdle");
         }
     }
+
+    void OnTriggerEnter2D(Collider2D col){
+
+        if(col.CompareTag("Key")){
+
+            col.gameObject.GetComponent<KeyScript>().Collect();
+        }
+    }
 }
