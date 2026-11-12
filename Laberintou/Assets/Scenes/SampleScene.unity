@@ -163,6 +163,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2601175738136559576, guid: 84afa4b25a9cb7e468f59690412c6916, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2854116530607823566, guid: 84afa4b25a9cb7e468f59690412c6916, type: 3}
       propertyPath: m_LocalScale.x
       value: 10.064471
@@ -2525,7 +2529,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dbca37ebc072d0e4ab7674bcf820faf5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerScript
-  speed: 4
+  speed: 5
   accceleration: 0.5
   rb: {fileID: 1405648574}
   sr: {fileID: 349439008}
@@ -2901,6 +2905,10 @@ PrefabInstance:
     - target: {fileID: 2601175738136559576, guid: 84afa4b25a9cb7e468f59690412c6916, type: 3}
       propertyPath: m_Name
       value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 2601175738136559576, guid: 84afa4b25a9cb7e468f59690412c6916, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2854116530607823566, guid: 84afa4b25a9cb7e468f59690412c6916, type: 3}
       propertyPath: m_LocalScale.x

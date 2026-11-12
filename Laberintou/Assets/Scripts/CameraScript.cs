@@ -14,8 +14,8 @@ public class CameraScript : MonoBehaviour
     {
         
         transform.position = new Vector3(
-        Mathf.Lerp(transform.position.x, target.transform.position.x, 0.01f),
-        Mathf.Lerp(transform.position.y, target.transform.position.y, 0.01f),
+        Mathf.Lerp(transform.position.x, target.transform.position.x, 0.1f*(Time.deltaTime*25)),
+        Mathf.Lerp(transform.position.y, target.transform.position.y, 0.1f*(Time.deltaTime*25)),
         transform.position.z);
     }
 }
