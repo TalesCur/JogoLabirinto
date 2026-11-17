@@ -3,6 +3,7 @@ using UnityEngine;
 public class KeyScript : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    GameObject Tracking;
     void Start()
     {
         
@@ -11,11 +12,14 @@ public class KeyScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(Tracking){
+
+            transform.position = Tracking.transform.position;
+        }
     }
 
-    public void Collect()
+    public void Collect(GameObject trackObj)
     {
-        Destroy(gameObject);
+        Tracking = trackObj;
     }
 }

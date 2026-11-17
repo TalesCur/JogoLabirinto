@@ -8,6 +8,8 @@ public class PlayerScript : MonoBehaviour
     private Vector2 velocity = new Vector2(0f, 0f);
     public GameObject sr;
     private bool isMoving = false;
+    public GameObject Track = null;
+    private bool picking = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -24,6 +26,10 @@ public class PlayerScript : MonoBehaviour
     
     void Move()
     {
+        if (picking){
+
+            rb.linearVelocity = new Vector2(0f, 0f);
+        }
         float h_spd = Input.GetAxisRaw("Horizontal");
         float v_spd = Input.GetAxisRaw("Vertical");
         velocity = new Vector2(h_spd*speed, v_spd*speed);
@@ -47,20 +53,28 @@ public class PlayerScript : MonoBehaviour
     {
         Animator an = sr.GetComponentInChildren<SpriteRenderer>().GetComponent<Animator>();
         
-        if (isMoving){
+        if (picking){
 
-            an.Play("PlayerRun");
+            an.Play("PlayerPicking");
         }else{
 
-            an.Play("PlayerIdle");
+            if (isMoving){
+
+                an.Play("PlayerRun");
+            }else{
+
+                an.Play("PlayerIdle");
+            }
         }
     }
 
     void OnTriggerEnter2D(Collider2D col){
 
+        Animator an = sr.GetComponentInChildren<SpriteRenderer>().GetComponent<Animator>();
         if(col.CompareTag("Key")){
 
-            col.gameObject.GetComponent<KeyScript>().Collect();
+            col.gameObject.GetComponent<KeyScript>().Collect(Track);
+            picking = true;
         }
     }
 }
