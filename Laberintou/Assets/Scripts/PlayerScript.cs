@@ -1,4 +1,5 @@
 using UnityEngine;
+using TMPro;
 
 public class PlayerScript : MonoBehaviour
 {
@@ -10,9 +11,13 @@ public class PlayerScript : MonoBehaviour
     private bool isMoving = false;
     public GameObject Track = null;
     private bool picking = false;
+    private GameObject key;
+    private int keys;
+    [SerializeField] public TMP_Text key_text;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        
         //sr = GetComponentInChildren<SpriteRenderer>();
     }
 
@@ -29,6 +34,7 @@ public class PlayerScript : MonoBehaviour
         if (picking){
 
             rb.linearVelocity = new Vector2(0f, 0f);
+            return;
         }
         float h_spd = Input.GetAxisRaw("Horizontal");
         float v_spd = Input.GetAxisRaw("Vertical");
@@ -55,7 +61,17 @@ public class PlayerScript : MonoBehaviour
         
         if (picking){
 
+            AnimatorStateInfo info = an.GetCurrentAnimatorStateInfo(0);
             an.Play("PlayerPicking");
+
+            if (info.IsName("PlayerPicking") && info.normalizedTime >= 1f){
+                
+                key.GetComponent<KeyScript>().Collect(Track);
+                keys++;
+                key_text.text = $"{keys}/3";
+                picking = false;
+                key = null;
+            }
         }else{
 
             if (isMoving){
@@ -71,9 +87,10 @@ public class PlayerScript : MonoBehaviour
     void OnTriggerEnter2D(Collider2D col){
 
         Animator an = sr.GetComponentInChildren<SpriteRenderer>().GetComponent<Animator>();
-        if(col.CompareTag("Key")){
+        if(keys < 3 && col.CompareTag("Key") && !picking){
 
-            col.gameObject.GetComponent<KeyScript>().Collect(Track);
+            key = col.gameObject;
+            key.GetComponent<KeyScript>().Track(Track);
             picking = true;
         }
     }

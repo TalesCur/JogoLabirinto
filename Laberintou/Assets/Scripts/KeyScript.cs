@@ -18,8 +18,13 @@ public class KeyScript : MonoBehaviour
         }
     }
 
-    public void Collect(GameObject trackObj)
+    public void Track(GameObject trackObj)
     {
         Tracking = trackObj;
+    }
+
+    public void Collect(GameObject trackObj)
+    {
+        Destroy(gameObject);
     }
 }

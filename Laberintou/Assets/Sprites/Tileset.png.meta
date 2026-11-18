@@ -139,8 +139,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5014edc990598804e89a0d9bdb2c6dc9
-      internalID: -1712430637
+      spriteID: 4924ea650ab996741aa9ad8524a339b1
+      internalID: 1447045171
       vertices: []
       indices: 
       edges: []
@@ -161,8 +161,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 279d1355dc4c98f4e9e3f82b64684daa
-      internalID: -809429433
+      spriteID: 877f483ace17f6040ab4d0aa746ac5c6
+      internalID: -1755568461
       vertices: []
       indices: 
       edges: []
@@ -183,8 +183,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 976bfb9afbe19c1418b2ba371fffb2bf
-      internalID: -406449978
+      spriteID: 05b2a717794417a488ef3f56168dccc4
+      internalID: 1481314646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5b35caaa2c2454893378492fffe4b7
+      internalID: 1662589528
       vertices: []
       indices: 
       edges: []
@@ -193,7 +215,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ddb6c8ae1e54ab24d9aa45b615f99b5b
+    spriteID: 90d43b3101626c448bb48c6b9956f88e
     internalID: 0
     vertices: []
     indices: 
@@ -206,9 +228,10 @@ TextureImporter:
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":70.0,"y":70.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Tileset_0: 5441223297315994465
-      Tileset_1: -1712430637
-      Tileset_2: -809429433
-      Tileset_3: -406449978
+      Tileset_1: 1447045171
+      Tileset_2: -1755568461
+      Tileset_3: 1481314646
+      Tileset_4: 1662589528
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

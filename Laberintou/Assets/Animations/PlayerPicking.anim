@@ -66,7 +66,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: GameObject
+    path: KeyTrack
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves:
@@ -86,10 +86,6 @@ AnimationClip:
       value: {fileID: -3475888654275263031, guid: e48a3980d398e5d42b8b315ec2d4c275, type: 3}
     - time: 1.4333333
       value: {fileID: -3475888654275263031, guid: e48a3980d398e5d42b8b315ec2d4c275, type: 3}
-    - time: 1.55
-      value: {fileID: -8683487335849299730, guid: e48a3980d398e5d42b8b315ec2d4c275, type: 3}
-    - time: 1.65
-      value: {fileID: -8683487335849299730, guid: e48a3980d398e5d42b8b315ec2d4c275, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -103,7 +99,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1482111001
+      path: 896933414
       attribute: 1
       script: {fileID: 0}
       typeID: 4
@@ -130,14 +126,12 @@ AnimationClip:
     - {fileID: -4205635772047579775, guid: e48a3980d398e5d42b8b315ec2d4c275, type: 3}
     - {fileID: -3475888654275263031, guid: e48a3980d398e5d42b8b315ec2d4c275, type: 3}
     - {fileID: -3475888654275263031, guid: e48a3980d398e5d42b8b315ec2d4c275, type: 3}
-    - {fileID: -8683487335849299730, guid: e48a3980d398e5d42b8b315ec2d4c275, type: 3}
-    - {fileID: -8683487335849299730, guid: e48a3980d398e5d42b8b315ec2d4c275, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1.6666666
+    m_StopTime: 1.4499999
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -206,7 +200,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: GameObject
+    path: KeyTrack
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -263,7 +257,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: GameObject
+    path: KeyTrack
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -320,7 +314,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: GameObject
+    path: KeyTrack
     classID: 4
     script: {fileID: 0}
     flags: 0
