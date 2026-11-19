@@ -1,52 +1,52 @@
 fileFormatVersion: 2
-guid: d04995203606abb42b34a6974a801382
+guid: 6a5e9f7fafe2b7b4a8605d4d6f7b9a50
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5667660221560456669
-    second: chave_idle_0
+      213: -2597926807140091255
+    second: chave_idle 1_0
   - first:
-      213: -4650371535605398811
-    second: chave_idle_1
+      213: 5844364847895022515
+    second: chave_idle 1_1
   - first:
-      213: 1883480520148003048
-    second: chave_idle_2
+      213: -5524516156250814264
+    second: chave_idle 1_2
   - first:
-      213: 3092921547059437444
-    second: chave_idle_3
+      213: -2179058853924669500
+    second: chave_idle 1_3
   - first:
-      213: -2858329694002121725
-    second: chave_idle_4
+      213: 3880652124965558662
+    second: chave_idle 1_4
   - first:
-      213: 40548420174386300
-    second: chave_idle_5
+      213: -3230154619288156855
+    second: chave_idle 1_5
   - first:
-      213: -867283688497416283
-    second: chave_idle_6
+      213: -2021354053680927204
+    second: chave_idle 1_6
   - first:
-      213: 4786240393290893115
-    second: chave_idle_7
+      213: -642937285081111817
+    second: chave_idle 1_7
   - first:
-      213: 2758936869214518646
-    second: chave_idle_8
+      213: -5668991270032767202
+    second: chave_idle 1_8
   - first:
-      213: -8065392989261989001
-    second: chave_idle_9
+      213: -5249132752365184504
+    second: chave_idle 1_9
   - first:
-      213: 5203095463979224205
-    second: chave_idle_10
+      213: 8172884371382200962
+    second: chave_idle 1_10
   - first:
-      213: 3693391064142247726
-    second: chave_idle_11
+      213: 7262830118952247869
+    second: chave_idle 1_11
   - first:
-      213: 1669728911377586873
-    second: chave_idle_12
+      213: -3840897372312868360
+    second: chave_idle 1_12
   - first:
-      213: -5761988848755477867
-    second: chave_idle_13
+      213: 554202703790368134
+    second: chave_idle 1_13
   - first:
-      213: -6436000357953122119
-    second: chave_idle_14
+      213: -4201173448611917651
+    second: chave_idle 1_14
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,7 +119,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -157,10 +157,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 32af64a9e0d6851b0800000000000000
-      internalID: -5667660221560456669
+      spriteID: d1e9a27f3d2792445976e1912e23a6ce
+      internalID: 737868585
       vertices: []
       indices: 
       edges: []
@@ -179,10 +179,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5e207a22abf867fb0800000000000000
-      internalID: -4650371535605398811
+      spriteID: b6fa8697725ad9c4dba39e6d071d263c
+      internalID: 138688865
       vertices: []
       indices: 
       edges: []
@@ -201,10 +201,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8e82ac0dd87732a10800000000000000
-      internalID: 1883480520148003048
+      spriteID: 5a8dcd093bb2115488bf0de629e9c1b2
+      internalID: 1361352104
       vertices: []
       indices: 
       edges: []
@@ -223,10 +223,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 48f11a292c34cea20800000000000000
-      internalID: 3092921547059437444
+      spriteID: 87c45f0152a17f844b4ec0aa589c4516
+      internalID: -2130542004
       vertices: []
       indices: 
       edges: []
@@ -245,10 +245,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3047d02994c2558d0800000000000000
-      internalID: -2858329694002121725
+      spriteID: 0bb9ed4ef8ab3ba469ade1fde106db6f
+      internalID: -7077953
       vertices: []
       indices: 
       edges: []
@@ -267,10 +267,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c7492b4c29e009000800000000000000
-      internalID: 40548420174386300
+      spriteID: 747ec6f7e4080a34bb0a3de9440537eb
+      internalID: -1943950298
       vertices: []
       indices: 
       edges: []
@@ -289,10 +289,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5a7fe93941ac6f3f0800000000000000
-      internalID: -867283688497416283
+      spriteID: 52b7947fdb78e524ebdd2037a0519b58
+      internalID: -794171808
       vertices: []
       indices: 
       edges: []
@@ -311,10 +311,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b37cab377442c6240800000000000000
-      internalID: 4786240393290893115
+      spriteID: f76f862b7ee9de249b006af540ac4c7f
+      internalID: 1265352221
       vertices: []
       indices: 
       edges: []
@@ -333,10 +333,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 67d724f0776b94620800000000000000
-      internalID: 2758936869214518646
+      spriteID: fea92970c91541645b9b28c3dd69621a
+      internalID: 266260115
       vertices: []
       indices: 
       edges: []
@@ -355,10 +355,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 77bfc1dfec7f11090800000000000000
-      internalID: -8065392989261989001
+      spriteID: f7dd2f1d605974b4eaa6d232954bb5d4
+      internalID: 1349098506
       vertices: []
       indices: 
       edges: []
@@ -377,10 +377,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d8c8deed1cb153840800000000000000
-      internalID: 5203095463979224205
+      spriteID: 8be91feff49afdb478d9c671eef73611
+      internalID: -1004477486
       vertices: []
       indices: 
       edges: []
@@ -399,10 +399,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e27fccaba9f814330800000000000000
-      internalID: 3693391064142247726
+      spriteID: 5bc7609de47438648a4b0911ce65e405
+      internalID: -1840720013
       vertices: []
       indices: 
       edges: []
@@ -421,10 +421,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9ba5cd929911c2710800000000000000
-      internalID: 1669728911377586873
+      spriteID: 74977dc5ecbb8804eb3d6faccce9efde
+      internalID: 1895194991
       vertices: []
       indices: 
       edges: []
@@ -443,10 +443,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 592fa2e9bad4900b0800000000000000
-      internalID: -5761988848755477867
+      spriteID: 08187e978d2b0c24f852c3d31327bc83
+      internalID: -916816582
       vertices: []
       indices: 
       edges: []
@@ -465,10 +465,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9b0dae916cbbea6a0800000000000000
-      internalID: -6436000357953122119
+      spriteID: 2262375b8e170cc4883d09c49a4d6655
+      internalID: -410662765
       vertices: []
       indices: 
       edges: []
@@ -477,7 +477,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1e4f3f97276bef04d88c6560e569b40f
+    spriteID: ae0d144267690ea4b9f9af7246450367
     internalID: 0
     vertices: []
     indices: 
@@ -489,21 +489,21 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":140.0,"y":140.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      chave_idle_0: -5667660221560456669
-      chave_idle_1: -4650371535605398811
-      chave_idle_10: 5203095463979224205
-      chave_idle_11: 3693391064142247726
-      chave_idle_12: 1669728911377586873
-      chave_idle_13: -5761988848755477867
-      chave_idle_14: -6436000357953122119
-      chave_idle_2: 1883480520148003048
-      chave_idle_3: 3092921547059437444
-      chave_idle_4: -2858329694002121725
-      chave_idle_5: 40548420174386300
-      chave_idle_6: -867283688497416283
-      chave_idle_7: 4786240393290893115
-      chave_idle_8: 2758936869214518646
-      chave_idle_9: -8065392989261989001
+      chave_idle_0: 737868585
+      chave_idle_1: 138688865
+      chave_idle_10: -1004477486
+      chave_idle_11: -1840720013
+      chave_idle_12: 1895194991
+      chave_idle_13: -916816582
+      chave_idle_14: -410662765
+      chave_idle_2: 1361352104
+      chave_idle_3: -2130542004
+      chave_idle_4: -7077953
+      chave_idle_5: -1943950298
+      chave_idle_6: -794171808
+      chave_idle_7: 1265352221
+      chave_idle_8: 266260115
+      chave_idle_9: 1349098506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

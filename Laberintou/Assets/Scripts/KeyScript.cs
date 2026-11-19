@@ -15,6 +15,9 @@ public class KeyScript : MonoBehaviour
         if(Tracking){
 
             transform.position = Tracking.transform.position;
+        }else{
+
+            transform.position = new Vector3(transform.position.x, transform.position.y+Mathf.Sin(Time.time)*.0005f, transform.position.z);
         }
     }
 
