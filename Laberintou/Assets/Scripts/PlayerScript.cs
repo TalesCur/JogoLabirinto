@@ -47,7 +47,7 @@ public class PlayerScript : MonoBehaviour
         }
         float h_spd = Input.GetAxisRaw("Horizontal");
         float v_spd = Input.GetAxisRaw("Vertical");
-        velocity = new Vector2(h_spd*speed, v_spd*speed);
+        velocity = new Vector2(h_spd*speed*Time.deltaTime, v_spd*speed*Time.deltaTime);
         rb.linearVelocity = velocity;
         
         if (h_spd < 0){

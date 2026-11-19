@@ -2,6 +2,12 @@ using UnityEngine;
 
 public class GameManagerScript : MonoBehaviour
 {
+
+    void Awake(){
+
+        QualitySettings.vSyncCount = 0;
+        Application.targetFrameRate = 60;
+    }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
