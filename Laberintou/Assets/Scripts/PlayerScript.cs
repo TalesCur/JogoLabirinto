@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class PlayerScript : MonoBehaviour
 {
@@ -113,6 +114,9 @@ public class PlayerScript : MonoBehaviour
         }else if(col.CompareTag("Door")){
 
             inDoor = col.gameObject;
+        }else if(col.CompareTag("Enemie")){
+
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 
