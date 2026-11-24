@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DoorScript
   indicator: {fileID: 2066841581769913645}
-  keys: 6
+  keys: 0
 --- !u!61 &383226745110579016
 BoxCollider2D:
   m_ObjectHideFlags: 0

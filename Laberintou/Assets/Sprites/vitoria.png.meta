@@ -1,0 +1,2173 @@
+fileFormatVersion: 2
+guid: b6998f4fe2628674ba0712e309b43d74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1427320067400864919
+    second: vitoria_0
+  - first:
+      213: 8467232821476244411
+    second: vitoria_1
+  - first:
+      213: 4317104220335929858
+    second: vitoria_2
+  - first:
+      213: 4824719193886014897
+    second: vitoria_3
+  - first:
+      213: -8156177765273335914
+    second: vitoria_4
+  - first:
+      213: 2476356524677230175
+    second: vitoria_5
+  - first:
+      213: -61591510345705778
+    second: vitoria_6
+  - first:
+      213: -5806379337381145114
+    second: vitoria_7
+  - first:
+      213: -3350147629565001750
+    second: vitoria_8
+  - first:
+      213: 2674785758535767575
+    second: vitoria_9
+  - first:
+      213: -4651768801011338219
+    second: vitoria_10
+  - first:
+      213: 4547525952815705966
+    second: vitoria_11
+  - first:
+      213: 2066080869648408554
+    second: vitoria_12
+  - first:
+      213: 5187545619947792184
+    second: vitoria_13
+  - first:
+      213: 3139931156473533198
+    second: vitoria_14
+  - first:
+      213: -4095895129181339949
+    second: vitoria_15
+  - first:
+      213: -8086921926294480542
+    second: vitoria_16
+  - first:
+      213: 2390587042388072827
+    second: vitoria_17
+  - first:
+      213: 7613900950148215336
+    second: vitoria_18
+  - first:
+      213: 6336246376391453008
+    second: vitoria_19
+  - first:
+      213: -5601759513280923183
+    second: vitoria_20
+  - first:
+      213: 120890599562462610
+    second: vitoria_21
+  - first:
+      213: -5127009222063746223
+    second: vitoria_22
+  - first:
+      213: -1658110488696855212
+    second: vitoria_23
+  - first:
+      213: 4144162156924954612
+    second: vitoria_24
+  - first:
+      213: 520963040489567724
+    second: vitoria_25
+  - first:
+      213: -5829925585907100851
+    second: vitoria_26
+  - first:
+      213: -3962604128635942753
+    second: vitoria_27
+  - first:
+      213: -8184515373196031521
+    second: vitoria_28
+  - first:
+      213: 8152427606697350140
+    second: vitoria_29
+  - first:
+      213: 1241846165778929074
+    second: vitoria_30
+  - first:
+      213: -7539958950761652630
+    second: vitoria_31
+  - first:
+      213: -8778950121214995162
+    second: vitoria_32
+  - first:
+      213: 8940316274173962850
+    second: vitoria_33
+  - first:
+      213: -3145282013762331975
+    second: vitoria_34
+  - first:
+      213: 7441955482624382033
+    second: vitoria_35
+  - first:
+      213: -1443972179478575324
+    second: vitoria_36
+  - first:
+      213: 2290560400827759540
+    second: vitoria_37
+  - first:
+      213: 226164823727210318
+    second: vitoria_38
+  - first:
+      213: -2561222600282772243
+    second: vitoria_39
+  - first:
+      213: -2461361182218882154
+    second: vitoria_40
+  - first:
+      213: -3616928030652710837
+    second: vitoria_41
+  - first:
+      213: -922734955254650282
+    second: vitoria_42
+  - first:
+      213: 9219118224673302375
+    second: vitoria_43
+  - first:
+      213: -4476211297212192868
+    second: vitoria_44
+  - first:
+      213: 9037273771698869346
+    second: vitoria_45
+  - first:
+      213: 106795119807451489
+    second: vitoria_46
+  - first:
+      213: -3656625428697319685
+    second: vitoria_47
+  - first:
+      213: -6564200021061621771
+    second: vitoria_48
+  - first:
+      213: 5636907359484216526
+    second: vitoria_49
+  - first:
+      213: -5359838477659107045
+    second: vitoria_50
+  - first:
+      213: 7594547172748635207
+    second: vitoria_51
+  - first:
+      213: 8358180221662734341
+    second: vitoria_52
+  - first:
+      213: -3862163299525341881
+    second: vitoria_53
+  - first:
+      213: 859773112400599774
+    second: vitoria_54
+  - first:
+      213: 4909367465875692238
+    second: vitoria_55
+  - first:
+      213: 5681380175508069478
+    second: vitoria_56
+  - first:
+      213: -805084649911337907
+    second: vitoria_57
+  - first:
+      213: -8804319676681150299
+    second: vitoria_58
+  - first:
+      213: -7710169819762698644
+    second: vitoria_59
+  - first:
+      213: 4216721918467522341
+    second: vitoria_60
+  - first:
+      213: -8328379481446359849
+    second: vitoria_61
+  - first:
+      213: 8493615842668607955
+    second: vitoria_62
+  - first:
+      213: 3198113390875446877
+    second: vitoria_63
+  - first:
+      213: 8316861042965084948
+    second: vitoria_64
+  - first:
+      213: 4021243270818097202
+    second: vitoria_65
+  - first:
+      213: 2514614819368434596
+    second: vitoria_66
+  - first:
+      213: 137335317479040284
+    second: vitoria_67
+  - first:
+      213: 5179509347968233287
+    second: vitoria_68
+  - first:
+      213: 8127037759451249490
+    second: vitoria_69
+  - first:
+      213: 5123065161513085187
+    second: vitoria_70
+  - first:
+      213: 5972273660665286964
+    second: vitoria_71
+  - first:
+      213: -3935246066816862329
+    second: vitoria_72
+  - first:
+      213: 7710598258604401895
+    second: vitoria_73
+  - first:
+      213: 752408350521275757
+    second: vitoria_74
+  - first:
+      213: 969159576450114203
+    second: vitoria_75
+  - first:
+      213: -4790000422841225604
+    second: vitoria_76
+  - first:
+      213: 3478089173207017224
+    second: vitoria_77
+  - first:
+      213: 7138580964355334918
+    second: vitoria_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vitoria_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 432
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794173ef90cdec310800000000000000
+      internalID: 1427320067400864919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 431
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbbe9ac367a18570800000000000000
+      internalID: 8467232821476244411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 471
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a76775a6f69eb30800000000000000
+      internalID: 4317104220335929858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 446
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdb59c5b88d4f240800000000000000
+      internalID: 4824719193886014897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 431
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69781f7298f6fce80800000000000000
+      internalID: -8156177765273335914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 432
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e6b9e8329cd5220800000000000000
+      internalID: 2476356524677230175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 431
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec61aa009de252ff0800000000000000
+      internalID: -61591510345705778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 431
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e59a3491c89b6fa0800000000000000
+      internalID: -5806379337381145114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 432
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef39a21b72e181d0800000000000000
+      internalID: -3350147629565001750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 431
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7165ccbc97fbe1520800000000000000
+      internalID: 2674785758535767575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 424
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514797eebe8917fb0800000000000000
+      internalID: -4651768801011338219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 432
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f2370a2ce0c1f30800000000000000
+      internalID: 4547525952815705966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 431
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef9f98ba913cac10800000000000000
+      internalID: 2066080869648408554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 431
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8372f1da14dddf740800000000000000
+      internalID: 5187545619947792184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 431
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0359c030c6439b20800000000000000
+      internalID: 3139931156473533198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 431
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deb4ebb4157827c0800000000000000
+      internalID: -4095895129181339949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 431
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26956e8ba5b75cf80800000000000000
+      internalID: -8086921926294480542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 417
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79513acf321d2120800000000000000
+      internalID: 2390587042388072827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_18
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 431
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f790f2920aa960800000000000000
+      internalID: 7613900950148215336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 431
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0592b2a228edee750800000000000000
+      internalID: 6336246376391453008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_20
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 431
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9b9bde66d8242b0800000000000000
+      internalID: -5601759513280923183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_21
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 431
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295ca9b1c5d7da100800000000000000
+      internalID: 120890599562462610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_22
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 431
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1531dbec64439d8b0800000000000000
+      internalID: -5127009222063746223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_23
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 431
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455efdaab453df8e0800000000000000
+      internalID: -1658110488696855212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 380
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7e0276685038930800000000000000
+      internalID: 4144162156924954612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 401
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5fc790025da3700800000000000000
+      internalID: 520963040489567724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 387
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43db016191f71fa0800000000000000
+      internalID: -5829925585907100851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 380
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98882f2a800209c0800000000000000
+      internalID: -3962604128635942753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 401
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd94de9a1a2ca6e80800000000000000
+      internalID: -8184515373196031521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 402
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3984207bd332170800000000000000
+      internalID: 8152427606697350140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_30
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 380
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b51fe8128ceb3110800000000000000
+      internalID: 1241846165778929074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_31
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 380
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e13de584fac5790800000000000000
+      internalID: -7539958950761652630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_32
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 388
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6259b1ca067ea2680800000000000000
+      internalID: -8778950121214995162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 380
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a68c59842621c70800000000000000
+      internalID: 8940316274173962850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 371
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba55434ca6b954d0800000000000000
+      internalID: -3145282013762331975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 380
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154d8101513274760800000000000000
+      internalID: 7441955482624382033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 380
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42702a804faf5fbe0800000000000000
+      internalID: -1443972179478575324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 380
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb3ae37c84b9cf10800000000000000
+      internalID: 2290560400827759540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_38
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 380
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ff2fa75bf732300800000000000000
+      internalID: 226164823727210318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_39
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 380
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec617f6d95b47cd0800000000000000
+      internalID: -2561222600282772243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 380
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69378edab0d77ddd0800000000000000
+      internalID: -2461361182218882154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_41
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 380
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40cac29e171ecdc0800000000000000
+      internalID: -3616928030652710837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_42
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 380
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ae5327279c133f0800000000000000
+      internalID: -922734955254650282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_43
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 380
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7676bfb2e23e0ff70800000000000000
+      internalID: 9219118224673302375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_44
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 380
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97a31a8a8d41e1c0800000000000000
+      internalID: -4476211297212192868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_45
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 380
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264d0142d98da6d70800000000000000
+      internalID: 9037273771698869346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_46
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 380
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1615edb78996b7100800000000000000
+      internalID: 106795119807451489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_47
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 380
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6f5d5db8e014dc0800000000000000
+      internalID: -3656625428697319685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_48
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 380
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7a2060cd647e4a0800000000000000
+      internalID: -6564200021061621771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_49
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec487d9b0615a3e40800000000000000
+      internalID: 5636907359484216526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_50
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 64
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1198ad5d470e95b0800000000000000
+      internalID: -5359838477659107045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_51
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c21ad7a60456960800000000000000
+      internalID: 7594547172748635207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_52
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 64
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50827e8c0a83ef370800000000000000
+      internalID: 8358180221662734341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_53
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 59
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dcd3311f6d66ac0800000000000000
+      internalID: -3862163299525341881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_54
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 64
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad11827178eeb00800000000000000
+      internalID: 859773112400599774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_55
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 64
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca516303b3912440800000000000000
+      internalID: 4909367465875692238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_56
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 64
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cda1b1b2158de40800000000000000
+      internalID: 5681380175508069478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_57
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 64
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c3ae3c6c3c3d4f0800000000000000
+      internalID: -805084649911337907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_58
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 64
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0207eb6e5c0d580800000000000000
+      internalID: -8804319676681150299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665b1f2669fff490800000000000000
+      internalID: -7710169819762698644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 28
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f3cd26e3ec48a30800000000000000
+      internalID: 4216721918467522341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 28
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcdcbdbcf6ab6c80800000000000000
+      internalID: -8328379481446359849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_62
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d974e89b926fd570800000000000000
+      internalID: 8493615842668607955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_63
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 28
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e0d864f2bf16c20800000000000000
+      internalID: 3198113390875446877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_64
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bf730dd0d6b6370800000000000000
+      internalID: 8316861042965084948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_65
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 28
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ea8803735ec730800000000000000
+      internalID: 4021243270818097202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_66
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 28
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab736fead4b5e220800000000000000
+      internalID: 2514614819368434596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_67
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 19
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15247d5eb9e7e100800000000000000
+      internalID: 137335317479040284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_68
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 28
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f267c4f4051e740800000000000000
+      internalID: 5179509347968233287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_69
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 28
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b374888c909c070800000000000000
+      internalID: 8127037759451249490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_70
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 19
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309aa290f98c81740800000000000000
+      internalID: 5123065161513085187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_71
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 28
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431506d7047c1e250800000000000000
+      internalID: 5972273660665286964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_72
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 28
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787b0a35d823369c0800000000000000
+      internalID: -3935246066816862329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_73
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 19
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e46cd1834c810b60800000000000000
+      internalID: 7710598258604401895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_74
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 28
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65bbda8867117a00800000000000000
+      internalID: 752408350521275757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_75
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 19
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b922afcff75237d00800000000000000
+      internalID: 969159576450114203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_76
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 28
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ee3927eff768db0800000000000000
+      internalID: -4790000422841225604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_77
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 28
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807e222eca7a44030800000000000000
+      internalID: 3478089173207017224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitoria_78
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 28
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603e3c4b095511360800000000000000
+      internalID: 7138580964355334918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vitoria_0: 1427320067400864919
+      vitoria_1: 8467232821476244411
+      vitoria_10: -4651768801011338219
+      vitoria_11: 4547525952815705966
+      vitoria_12: 2066080869648408554
+      vitoria_13: 5187545619947792184
+      vitoria_14: 3139931156473533198
+      vitoria_15: -4095895129181339949
+      vitoria_16: -8086921926294480542
+      vitoria_17: 2390587042388072827
+      vitoria_18: 7613900950148215336
+      vitoria_19: 6336246376391453008
+      vitoria_2: 4317104220335929858
+      vitoria_20: -5601759513280923183
+      vitoria_21: 120890599562462610
+      vitoria_22: -5127009222063746223
+      vitoria_23: -1658110488696855212
+      vitoria_24: 4144162156924954612
+      vitoria_25: 520963040489567724
+      vitoria_26: -5829925585907100851
+      vitoria_27: -3962604128635942753
+      vitoria_28: -8184515373196031521
+      vitoria_29: 8152427606697350140
+      vitoria_3: 4824719193886014897
+      vitoria_30: 1241846165778929074
+      vitoria_31: -7539958950761652630
+      vitoria_32: -8778950121214995162
+      vitoria_33: 8940316274173962850
+      vitoria_34: -3145282013762331975
+      vitoria_35: 7441955482624382033
+      vitoria_36: -1443972179478575324
+      vitoria_37: 2290560400827759540
+      vitoria_38: 226164823727210318
+      vitoria_39: -2561222600282772243
+      vitoria_4: -8156177765273335914
+      vitoria_40: -2461361182218882154
+      vitoria_41: -3616928030652710837
+      vitoria_42: -922734955254650282
+      vitoria_43: 9219118224673302375
+      vitoria_44: -4476211297212192868
+      vitoria_45: 9037273771698869346
+      vitoria_46: 106795119807451489
+      vitoria_47: -3656625428697319685
+      vitoria_48: -6564200021061621771
+      vitoria_49: 5636907359484216526
+      vitoria_5: 2476356524677230175
+      vitoria_50: -5359838477659107045
+      vitoria_51: 7594547172748635207
+      vitoria_52: 8358180221662734341
+      vitoria_53: -3862163299525341881
+      vitoria_54: 859773112400599774
+      vitoria_55: 4909367465875692238
+      vitoria_56: 5681380175508069478
+      vitoria_57: -805084649911337907
+      vitoria_58: -8804319676681150299
+      vitoria_59: -7710169819762698644
+      vitoria_6: -61591510345705778
+      vitoria_60: 4216721918467522341
+      vitoria_61: -8328379481446359849
+      vitoria_62: 8493615842668607955
+      vitoria_63: 3198113390875446877
+      vitoria_64: 8316861042965084948
+      vitoria_65: 4021243270818097202
+      vitoria_66: 2514614819368434596
+      vitoria_67: 137335317479040284
+      vitoria_68: 5179509347968233287
+      vitoria_69: 8127037759451249490
+      vitoria_7: -5806379337381145114
+      vitoria_70: 5123065161513085187
+      vitoria_71: 5972273660665286964
+      vitoria_72: -3935246066816862329
+      vitoria_73: 7710598258604401895
+      vitoria_74: 752408350521275757
+      vitoria_75: 969159576450114203
+      vitoria_76: -4790000422841225604
+      vitoria_77: 3478089173207017224
+      vitoria_78: 7138580964355334918
+      vitoria_8: -3350147629565001750
+      vitoria_9: 2674785758535767575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

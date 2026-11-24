@@ -8,7 +8,7 @@ public class DoorScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.y);
+        
     }
 
     // Update is called once per frame
@@ -21,10 +21,10 @@ public class DoorScript : MonoBehaviour
         if (indShowing){
             
             //Position
-            indicator.transform.position = new Vector3(
-                indicator.transform.position.x,
-                Mathf.Lerp(indicator.transform.position.y, 2.9f, .02f),
-                indicator.transform.position.z);
+            indicator.transform.localPosition = new Vector3(
+                indicator.transform.localPosition.x,
+                Mathf.Lerp(indicator.transform.localPosition.y, 1f, .02f),
+                indicator.transform.localPosition.z);
 
             //Color
             Color col = indicator.GetComponent<SpriteRenderer>().color;
@@ -33,10 +33,10 @@ public class DoorScript : MonoBehaviour
         }else{
 
             //Position
-            indicator.transform.position = new Vector3(
-                indicator.transform.position.x,
-                Mathf.Lerp(indicator.transform.position.y, 2.3f, .02f),
-                indicator.transform.position.z);
+            indicator.transform.localPosition = new Vector3(
+                indicator.transform.localPosition.x,
+                Mathf.Lerp(indicator.transform.localPosition.y, .3f, .02f),
+                indicator.transform.localPosition.z);
             
             //Color
             Color col = indicator.GetComponent<SpriteRenderer>().color;

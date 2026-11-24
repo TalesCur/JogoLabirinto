@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class GameManagerScript : MonoBehaviour
 {
     public static GameManagerScript Instance;
-    private int level = 1;
+    private int level = 3;
     void Awake(){
 
         QualitySettings.vSyncCount = 0;
@@ -35,5 +35,8 @@ public class GameManagerScript : MonoBehaviour
 
         level++;
         SceneManager.LoadScene($"Level{level}");
+        if (level == 4){
+
+        }
     }
 }

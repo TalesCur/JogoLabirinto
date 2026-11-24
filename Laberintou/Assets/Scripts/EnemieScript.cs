@@ -23,6 +23,22 @@ public class EnemieScript : MonoBehaviour
         if (target != null && Awakened){
 
             agent.SetDestination(target.transform.position);
+
+            if(target.transform.position.y > transform.position.y)
+            {
+                transform.position = new Vector3(
+                    transform.position.x,
+                    transform.position.y,
+                    -0.1f
+                );
+            }else{
+
+                transform.position = new Vector3(
+                    transform.position.x,
+                    transform.position.y,
+                    0.1f
+                );
+            }
         }
     }
 }
